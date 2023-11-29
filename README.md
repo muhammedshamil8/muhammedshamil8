@@ -15,7 +15,7 @@ I'm a passionate web developer with a love for creating seamless and interactive
 
 - **Email:** [shamilzamil007@gmail.com](mailto:shamilzamil007@gmail.com)
 - **LinkedIn:** [Muhammed Shamil](https://www.linkedin.com/in/muhammed-shamil-65878227a/)
-- **Telegram:** [@YourTwitterHandle](https://t.me/zamil_007)
+- **Telegram:** [@zamil](https://t.me/zamil_007)
 
 Feel free to reach out if you want to chat about web development, tech trends, or if you're looking for someone to collaborate on projects.
 
