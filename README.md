@@ -61,8 +61,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
   <!-- Add more icons for your tools -->
 </p>
+
 
 <br>
 
@@ -100,20 +102,22 @@
 
 ## Loved this work? <img src="./assets/Heart%20on%20Fire.png" width="30">
 
-  <img src="assets/Star.png" width="25"/> [Give a star to this project](https://github.com/muhammedshamil8/muhammedshamil8) <br/>
 ##### If you found this template inspiring, consider giving a <img src="assets/Star.png" width="25"/> to [Muhammad Salahudheen](https://github.com/MhdSalahu) for the original work!
-
+  <img src="assets/Star.png" width="25"/> [Give a star to this project](https://github.com/muhammedshamil8/muhammedshamil8) <br/>
   <img src="assets/Folded%20Hands%20Light%20Skin%20Tone.png" width="25"/> [Follow me on GitHub](https://github.com/muhammedshamil8)<br/>
   <img src="assets/Hot%20Beverage.png" width="25"/> [Buy me a coffee](https://www.buymeacoffee.com/shamilzamil007) (Tired of coding fuel)
 
-##### Feel free to reach out if you want to chat about web development, tech trends, or if you're looking for someone to collaborate on projects. If you enjoyed this template, show your appreciation to [Muhammad Salahudheen](https://github.com/MhdSalahu) for the inspiration!
+#### Feel free to reach out if you want to chat about web development, tech trends, or if you're looking for someone to collaborate on projects. If you enjoyed this template, show your appreciation to [Muhammad Salahudheen](https://github.com/MhdSalahu) for the inspiration!
+
+<br>
 
 **Keep coding and stay curious!** 🚀
-<br><br>
+
+<br><br><br>
 
 ### Thanks for visiting! <img src="./assets/Partying%20Face.png" width="25">
 
-<br><br><br>
+<br><br>
 
 ---
 
