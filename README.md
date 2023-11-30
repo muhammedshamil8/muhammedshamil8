@@ -107,7 +107,7 @@
   <img src="assets/Folded%20Hands%20Light%20Skin%20Tone.png" width="25"/> [Follow me on GitHub](https://github.com/muhammedshamil8)<br/>
   <img src="assets/Hot%20Beverage.png" width="25"/> [Buy me a coffee](https://www.buymeacoffee.com/shamilzamil007) (Tired of coding fuel)
 
-#### Feel free to reach out if you want to chat about web development, tech trends, or if you're looking for someone to collaborate on projects. If you enjoyed this template, show your appreciation to [Muhammad Salahudheen](https://github.com/MhdSalahu) for the inspiration!
+#### Feel free to reach out if you want to chat about web development, tech trends, or if you're looking for someone to collaborate on projects.       If you enjoyed this template, show your appreciation to [Muhammad Salahudheen](https://github.com/MhdSalahu) for the inspiration!
 
 <br>
 
