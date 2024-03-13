@@ -102,7 +102,6 @@
 
 ## Loved this work? <img src="./assets/Heart%20on%20Fire.png" width="30">
 
-##### If you found this template inspiring, consider giving a <img src="assets/Star.png" width="25"/> to [Muhammad Salahudheen](https://github.com/MhdSalahu) for the original work!
   <img src="assets/Star.png" width="25"/> [Give a star to this project](https://github.com/muhammedshamil8/muhammedshamil8) <br/>
   <img src="assets/Folded%20Hands%20Light%20Skin%20Tone.png" width="25"/> [Follow me on GitHub](https://github.com/muhammedshamil8)<br/>
   <img src="assets/Hot%20Beverage.png" width="25"/> [Buy me a coffee](https://www.buymeacoffee.com/shamilzamil007) (Tired of coding fuel)
