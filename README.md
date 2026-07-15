@@ -40,6 +40,12 @@ Focusing on writing robust **Go** backends and high-fidelity mobile apps with **
 
 ---
 
+### 💭 Philosophy
+
+> "I enjoy building software that people actually use. My focus is writing clean, maintainable code, understanding how systems work, and delivering high-performance applications."
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
