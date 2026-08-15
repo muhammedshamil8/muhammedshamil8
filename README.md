@@ -24,6 +24,8 @@
 
 Backend-focused software engineer working mainly in **Go**, with full-stack range across React, Flutter, and Node.js. Co-founder of **[FitDuel](https://thefitduel.com)**, a real-time fitness platform, where I build the Go backend — auth, matchmaking, leaderboards, game logic. Freelancing since 2023, delivering backend systems and full-stack apps for startups and educational institutions. Also active in student tech communities around Calicut — organizing bootcamps, hackathons, and mentoring 100+ students.
 
+🟢 **Currently available for freelance / contract work.**
+
 ---
 
 ### 🛠 Tech Stack
@@ -32,9 +34,10 @@ Backend-focused software engineer working mainly in **Go**, with full-stack rang
 | --- | --- |
 | **Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) |
+| **Backend** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
 
 ---
 
@@ -63,32 +66,9 @@ Multi-tenant SaaS automating exam seating allocation and document generation —
 
 ---
 
-### 💼 Experience
-
-- **Freelance Software Engineer** (2023 – Present) — 10+ delivered solutions: backend services, web apps, mobile apps, end-to-end from architecture to deployment.
-- **Software Developer (Contract), Quintera Infotech LLP** (Apr – Jul 2026) — React Native health-tech app; integrated ONNX-based rPPG vital-sign analysis and Google ML Kit face detection.
-- **Junior Developer (Intern), Destinify** (Dec 2023 – Dec 2024) — Full-stack features for admin/vendor/customer dashboards using Vue 3, Nuxt 3, Node.js, TypeScript.
-
----
-
-### 🤝 Leadership & Community
-
-- **Convener, CONNECT EMEA** (2025 – 2026) — leading the student tech community.
-- **Campus Lead, TinkerHub EMEA** (2024 – 2025) — hackathons, bootcamps, open-source workshops.
-- **CTO, IEDC EMEA College** (2023 – 2024) — led student teams building internal college platforms.
-- Mentored 100+ students in Git and software engineering.
-
----
-
 ### 💭 Philosophy
 
 > "I enjoy building software that people actually use—writing clean, maintainable code and turning ideas into reliable products."
-
----
-
-### 📜 Certificates
-
-**[Boot.dev](https://www.boot.dev/u/shamilkp)** (2026) — Go, Linux, Git, Docker, SQL, concurrency, HTTP servers, backend engineering.
 
 ---
 
@@ -99,5 +79,5 @@ Multi-tenant SaaS automating exam seating allocation and document generation —
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedshamil8&layout=compact&theme=dracula&hide_border=true&langs_count=8" width="34%" alt="Muhammad Shamil's Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=muhammedshamil8&theme=dracula&hide_border=true" width="49%" alt="Muhammad Shamil's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=muhammedshamil8&theme=dracula&hide_border=true" width="49%" alt="Muhammad Shamil's GitHub Streak" />
 </p>
