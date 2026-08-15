@@ -22,7 +22,7 @@
 
 ### 🧠 About Me
 
-Backend-focused software engineer working mainly in **Go**, with full-stack range across React, Flutter, and Node.js. Software Engineer at **[FitDuel](https://thefitduel.com)**, a real-time fitness platform, engineering high-concurrency Go backend services for auth, matchmaking, leaderboards, and duel state synchronization. Freelancing since 2023, delivering backend systems and full-stack apps for startups and educational institutions. Also active in student tech communities around Calicut — organizing bootcamps, hackathons, and mentoring 100+ students.
+Backend-focused software engineer working mainly in **Go**, with full-stack range across React, Flutter, and Node.js. Co-Founder of **[FitDuel](https://thefitduel.com)**, a real-time fitness platform, engineering high-concurrency Go backend services for auth, matchmaking, leaderboards, and duel state synchronization. Freelancing since 2023, delivering backend systems and full-stack apps for startups and educational institutions. Also active in student tech communities around Calicut — organizing bootcamps, hackathons, and mentoring 100+ students.
 
 🟢 **Currently open to full-time roles and freelance / contract work.**
 
@@ -43,7 +43,7 @@ Backend-focused software engineer working mainly in **Go**, with full-stack rang
 
 ### 🚀 Featured Projects
 
-**🏆 [FitDuel](https://thefitduel.com)** · `Go` `WebSocket` `Redis Pub/Sub` `PostgreSQL`
+**🏆 [FitDuel](https://thefitduel.com) — Co-Founder** · `Go` `WebSocket` `Redis Pub/Sub` `PostgreSQL`
 Real-time multiplayer fitness platform featuring live 1v1 workout duels and rep tracking. Engineered high-concurrency Go/Gin backend microservices, WebSocket duel telemetry synchronization, Redis Pub/Sub message routing, matchmaking queues, and real-time leaderboards.
 
 **🎓 [ExamMaster](https://github.com/muhammedshamil8/ExamMaster) — SaaS Platform** · `Go` `React` `PostgreSQL` `Supabase` `Cloudflare R2`
