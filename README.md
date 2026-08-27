@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I am Muhammed Shamil 👋</h1>
+  <h1>Hi, I am Muhammed Shamil <img src="assets/Waving Hand Light Skin Tone.png" width="36" valign="middle" alt="wave" /></h1>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=00ADD8&center=true&vCenter=true&width=500&lines=Co-Founder+%40+FitDuel;Backend+Software+Engineer;Building+scalable+web+%26+mobile+apps;Go+%C2%B7+React+%C2%B7+Flutter+%C2%B7+Node.js" alt="Typing SVG" />
 
