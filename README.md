@@ -62,7 +62,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-nine-liart-88.vercel.app/api?username=muhammedshamil8&show_border=true&border_color=21262D&border_radius=8&count_private=true&show_icons=true&include_all_commits=true&bg_color=0D1117&title_color=00ADD8&icon_color=00ADD8&text_color=E6EDF3" height="195" alt="GitHub stats" />
-  <img src="https://github-readme-stats-nine-liart-88.vercel.app/api/top-langs/?username=muhammedshamil8&layout=compact&hide=c,html&show_border=true&border_color=21262D&border_radius=8&langs_count=8&bg_color=0D1117&title_color=00ADD8&text_color=E6EDF3" height="195" alt="top languages" />
+  <img src="https://github-readme-stats-nine-liart-88.vercel.app/api/top-langs/?username=muhammedshamil8&layout=compact&hide=c,html,css,scss,php,blade,cmake&show_border=true&border_color=21262D&border_radius=8&langs_count=10&bg_color=0D1117&title_color=00ADD8&text_color=E6EDF3" height="195" alt="top languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=muhammedshamil8&show_border=true&border_color=21262D&border_radius=8&background=0D1117&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" height="195" alt="streak stats" />
